@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Drink 8 glasses of water",
+    "daily_goal": 8,
+    "active": true,
+    "created_at": "2024-12-02T09:00:24.619Z"
+  },
+  {
+    "id": 2,
+    "name": "Clean house",
+    "daily_goal": 1,
+    "active": true,
+    "created_at": "2024-12-02T09:03:12.217Z"
+  },
+  {
+    "id": 3,
+    "name": "Work on project ( minutes)",
+    "daily_goal": 30,
+    "active": true,
+    "created_at": "2024-12-02T09:10:45.398Z"
+  }
+]
